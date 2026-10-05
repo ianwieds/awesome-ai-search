@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "AI Search",
+  "repo": "ianwieds/awesome-ai-search",
+  "tagline": "Answer engines, search APIs built for AI agents, open-source answer engines, deep research tools and AI search visibility tools.",
+  "scope": "It is about search that answers with AI or serves AI agents, not a classic search engine or SEO product with no AI story.",
+  "accent": "7C3AED",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a magnifying lens moves over stacks of pages, and snippets rise on beams through it into an answer card, where each line writes itself and gains a colored citation dot."
 }
