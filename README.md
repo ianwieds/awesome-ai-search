@@ -165,6 +165,7 @@ AI search answers a question in words, with sources, instead of handing back a p
 - [Brandlight](https://www.brandlight.ai/) - Enterprise platform that monitors brand presence in AI answers and their sources.
 - [Evertune](https://www.evertune.ai/) - Measures how AI models see a brand across large samples of prompts.
 - [Gauge](https://www.withgauge.com/) - Tracks a brand across ChatGPT, Gemini, Perplexity and AI search with GEO advice.
+- [Get AI Vizible](https://getvizible.online/) - Tracks brand mentions and citations in seven AI engines, with Google SEO data.
 - [Goodie](https://higoodie.com/) - Monitors and improves brand visibility across AI answer engines.
 - [Knowatoa](https://knowatoa.com/) - Tracks how ChatGPT, Claude and Perplexity mention a brand against competitors.
 - [LLMrefs](https://llmrefs.com/) - Tracks brand rank and citations in AI answers by keyword.
