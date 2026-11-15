@@ -229,10 +229,10 @@ AI search answers a question in words, with sources, instead of handing back a p
 - [Awesome GEO](https://github.com/tentenco/awesome-geo) - Resources on generative engine optimization and AI SEO.
 - [Awesome GEO Tools](https://github.com/RankSpotAI/awesome-geo-tools) - GEO and AI visibility tools compared by the engines they track.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
